@@ -1,0 +1,17 @@
+C:\Users\workman\source\repos\pictureviewer\bin\Debug\net7.0-windows\pictureviewer.exe
+C:\Users\workman\source\repos\pictureviewer\bin\Debug\net7.0-windows\pictureviewer.deps.json
+C:\Users\workman\source\repos\pictureviewer\bin\Debug\net7.0-windows\pictureviewer.runtimeconfig.json
+C:\Users\workman\source\repos\pictureviewer\bin\Debug\net7.0-windows\pictureviewer.dll
+C:\Users\workman\source\repos\pictureviewer\bin\Debug\net7.0-windows\pictureviewer.pdb
+C:\Users\workman\source\repos\pictureviewer\obj\Debug\net7.0-windows\pictureviewer.csproj.AssemblyReference.cache
+C:\Users\workman\source\repos\pictureviewer\obj\Debug\net7.0-windows\pictureviewer.Form1.resources
+C:\Users\workman\source\repos\pictureviewer\obj\Debug\net7.0-windows\pictureviewer.csproj.GenerateResource.cache
+C:\Users\workman\source\repos\pictureviewer\obj\Debug\net7.0-windows\pictureviewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\workman\source\repos\pictureviewer\obj\Debug\net7.0-windows\pictureviewer.AssemblyInfoInputs.cache
+C:\Users\workman\source\repos\pictureviewer\obj\Debug\net7.0-windows\pictureviewer.AssemblyInfo.cs
+C:\Users\workman\source\repos\pictureviewer\obj\Debug\net7.0-windows\pictureviewer.csproj.CoreCompileInputs.cache
+C:\Users\workman\source\repos\pictureviewer\obj\Debug\net7.0-windows\pictureviewer.dll
+C:\Users\workman\source\repos\pictureviewer\obj\Debug\net7.0-windows\refint\pictureviewer.dll
+C:\Users\workman\source\repos\pictureviewer\obj\Debug\net7.0-windows\pictureviewer.pdb
+C:\Users\workman\source\repos\pictureviewer\obj\Debug\net7.0-windows\pictureviewer.genruntimeconfig.cache
+C:\Users\workman\source\repos\pictureviewer\obj\Debug\net7.0-windows\ref\pictureviewer.dll

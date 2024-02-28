@@ -1,0 +1,15 @@
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\bin\Debug\net7.0\Fountain.exe
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\bin\Debug\net7.0\Fountain.deps.json
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\bin\Debug\net7.0\Fountain.runtimeconfig.json
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\bin\Debug\net7.0\Fountain.dll
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\bin\Debug\net7.0\Fountain.pdb
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\obj\Debug\net7.0\Fountain.csproj.AssemblyReference.cache
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\obj\Debug\net7.0\Fountain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\obj\Debug\net7.0\Fountain.AssemblyInfoInputs.cache
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\obj\Debug\net7.0\Fountain.AssemblyInfo.cs
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\obj\Debug\net7.0\Fountain.csproj.CoreCompileInputs.cache
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\obj\Debug\net7.0\Fountain.dll
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\obj\Debug\net7.0\refint\Fountain.dll
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\obj\Debug\net7.0\Fountain.pdb
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\obj\Debug\net7.0\Fountain.genruntimeconfig.cache
+C:\Users\workman\source\repos\C#\31 - The Fountain of Objects\obj\Debug\net7.0\ref\Fountain.dll

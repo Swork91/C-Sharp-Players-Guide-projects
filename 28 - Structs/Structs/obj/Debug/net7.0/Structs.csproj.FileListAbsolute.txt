@@ -1,0 +1,15 @@
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\bin\Debug\net7.0\Structs.exe
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\bin\Debug\net7.0\Structs.deps.json
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\bin\Debug\net7.0\Structs.runtimeconfig.json
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\bin\Debug\net7.0\Structs.dll
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\bin\Debug\net7.0\Structs.pdb
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\obj\Debug\net7.0\Structs.csproj.AssemblyReference.cache
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\obj\Debug\net7.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\obj\Debug\net7.0\Structs.AssemblyInfoInputs.cache
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\obj\Debug\net7.0\Structs.AssemblyInfo.cs
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\obj\Debug\net7.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\obj\Debug\net7.0\Structs.dll
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\obj\Debug\net7.0\refint\Structs.dll
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\obj\Debug\net7.0\Structs.pdb
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\obj\Debug\net7.0\Structs.genruntimeconfig.cache
+C:\Users\workman\source\repos\C#\28 - Structs\Structs\obj\Debug\net7.0\ref\Structs.dll

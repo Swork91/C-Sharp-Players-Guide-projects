@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fonIngCQ8SooCOFMQYfqFgzkJ4GR73gWPtBLe6E8HdbBib2UsjeplV/PFlT28Z9nX7obo1et8fNKjvWewwXFCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\workman\\source\\repos\\C#\\25 - Inheritance\\Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\workman\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\workman\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

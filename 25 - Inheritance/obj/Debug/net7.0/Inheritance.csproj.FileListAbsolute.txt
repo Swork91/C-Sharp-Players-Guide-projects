@@ -1,0 +1,33 @@
+C:\Users\workman\source\repos\Inheritance\bin\Debug\net7.0\Inheritance.exe
+C:\Users\workman\source\repos\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+C:\Users\workman\source\repos\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+C:\Users\workman\source\repos\Inheritance\bin\Debug\net7.0\Inheritance.dll
+C:\Users\workman\source\repos\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+C:\Users\workman\source\repos\Inheritance\obj\Debug\net7.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\workman\source\repos\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\workman\source\repos\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\workman\source\repos\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\Users\workman\source\repos\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\workman\source\repos\Inheritance\obj\Debug\net7.0\Inheritance.dll
+C:\Users\workman\source\repos\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+C:\Users\workman\source\repos\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+C:\Users\workman\source\repos\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+C:\Users\workman\source\repos\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll
+C:\Users\workman\source\repos\C#\25 - Inheritance\bin\Debug\net7.0\Inheritance.exe
+C:\Users\workman\source\repos\C#\25 - Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+C:\Users\workman\source\repos\C#\25 - Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+C:\Users\workman\source\repos\C#\25 - Inheritance\bin\Debug\net7.0\Inheritance.dll
+C:\Users\workman\source\repos\C#\25 - Inheritance\bin\Debug\net7.0\Inheritance.pdb
+C:\Users\workman\source\repos\C#\25 - Inheritance\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Users\workman\source\repos\C#\25 - Inheritance\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Users\workman\source\repos\C#\25 - Inheritance\obj\Debug\net7.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\workman\source\repos\C#\25 - Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\workman\source\repos\C#\25 - Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\workman\source\repos\C#\25 - Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\Users\workman\source\repos\C#\25 - Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\workman\source\repos\C#\25 - Inheritance\obj\Debug\net7.0\Inheritance.csproj.CopyComplete
+C:\Users\workman\source\repos\C#\25 - Inheritance\obj\Debug\net7.0\Inheritance.dll
+C:\Users\workman\source\repos\C#\25 - Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+C:\Users\workman\source\repos\C#\25 - Inheritance\obj\Debug\net7.0\Inheritance.pdb
+C:\Users\workman\source\repos\C#\25 - Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+C:\Users\workman\source\repos\C#\25 - Inheritance\obj\Debug\net7.0\ref\Inheritance.dll
